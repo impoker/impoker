@@ -19,11 +19,11 @@
     <key>bundle-identifier</key>
     <string>com.owapp.pk-dev212</string>
     <key>bundle-version</key>
-    <string>0.0.1</string>
+    <string>0.0.23</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <string>部落先锋</string>
+    <string>[測試]部落先锋</string>
    </dict>
   </dict>
  </array>
